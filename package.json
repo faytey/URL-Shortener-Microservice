@@ -1,5 +1,6 @@
 {
   "name": "shorturl",
+  "author": "Faith M. Roberts",
   "version": "0.0.1",
   "description": "API project for freeCodeCamp",
   "main": "server.js",
