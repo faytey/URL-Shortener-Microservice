@@ -1,4 +1,4 @@
-# API Project: URL Shortener Microservice for freeCodeCamp
+# Faytey7 API Project: URL Shortener Microservice for freeCodeCamp
 
 ### User Stories
 
